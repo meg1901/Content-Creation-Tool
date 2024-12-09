@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+    background-image: url('https://img.freepik.com/premium-photo/pastel-peach-background-with-smudge_198067-424532.jpg');
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Example font */
+}
+
+.container-fluid {
+    min-height: 100vh; /* Full height to cover the viewport */
+}
+
+
+
+h2 {
+    color: #333; /* Dark text color for headers */
+}
+
+
