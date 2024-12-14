@@ -1,6 +1,7 @@
 
 ### **Title**  
 **Automated Content Generation Tool**
+
 An AI-powered content generation system that produces structured and creative articles based on user-defined parameters such as keywords, tone, and word count.
 
 ### **Introduction**   
