@@ -2,20 +2,16 @@
 ### **Title**  
 Automated Content Generation Tool  
 
-### **Introduction**  
-Provide a brief overview:  
+### **Introduction**   
 - The tool automates the creation of structured, coherent, and targeted content using NLP and machine learning.  
 - Users input key parameters like **description, keywords, tone, and word count**, and the tool generates high-quality text.  
 - Use cases include marketing, donation requests, blogs, or any customizable written content.  
-
 
 ### **Features**  
 - **Customizable Input**: Description, keywords, tone, and word count to fine-tune the output.  
 - **Structured Output**: Generates well-formatted articles with headings, subheadings, and coherent paragraphs.  
 - **Advanced NLP Models**: Leverages state-of-the-art transformer models for natural language understanding.  
 - **Scalable and Modular**: Easily adaptable for various domains and text styles.  
-
-
 
 ### **Installation**  
 Provide step-by-step instructions:  
@@ -54,8 +50,6 @@ Explain how users can use the tool:
 
 Provide an example output to give users clarity.  
 
----
-
 ### **Project Architecture**  
 - **Data Input**: Accepts description, keywords, tone, and word count.  
 - **Processing**:  
@@ -63,22 +57,12 @@ Provide an example output to give users clarity.
    - Content generation using transformer models.  
 - **Output**: Structured article with formatted text.  
 
----
-
 ### **Technologies Used**  
 - **Programming Language**: Python  
 - **Libraries**:  
    - NLP: `transformers`, `nltk`  
    - Data: `pandas`, `numpy`  
-   - Backend: Flask (if applicable)  
    - Jupyter Notebook for prototyping  
 
----
-
-### **Contributing**  
-Provide contribution guidelines:  
-1. Fork the repository.  
-2. Create a new branch for your feature/bugfix.  
-3. Commit your changes and open a pull request.  
 
 
