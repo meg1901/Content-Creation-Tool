@@ -1,6 +1,6 @@
 
 ### **Title**  
-Automated Content Generation Tool  
+**Automated Content Generation Tool**
 An AI-powered content generation system that produces structured and creative articles based on user-defined parameters such as keywords, tone, and word count.
 
 ### **Introduction**   
@@ -59,7 +59,7 @@ Provide step-by-step instructions:
 - **NLP Framework**: HuggingFace Transformers for model building and inference.
 - **Other Tools**: HTML, CSS for styling, and Bootstrap for responsive design.
 
-### **Contributing **
+### Contributing 
 Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcome!
 
 
