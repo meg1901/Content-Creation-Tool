@@ -1,6 +1,7 @@
 
 ### **Title**  
 Automated Content Generation Tool  
+An AI-powered content generation system that produces structured and creative articles based on user-defined parameters such as keywords, tone, and word count.
 
 ### **Introduction**   
 - The tool automates the creation of structured, coherent, and targeted content using NLP and machine learning.  
@@ -17,7 +18,7 @@ Automated Content Generation Tool
 Provide step-by-step instructions:  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/username/content-generation-tool.git  
+   git clone https://github.com/meg1901/content-generation-tool.git  
    ```  
 2. **Navigate to the project directory**:  
    ```bash  
@@ -35,20 +36,14 @@ Provide step-by-step instructions:
    ```  
 
 ### **Usage**  
-Explain how users can use the tool:  
-1. Launch the Jupyter Notebook:  
-   ```bash  
-   jupyter notebook  
-   ```  
-2. Open the notebook and provide the required inputs:  
-   - Description  
-   - Keywords  
-   - Tone (e.g., formal, casual)  
-   - Word count  
+1. Open the frontend application and fill in the input fields with:
+-Topic description
+-Keywords
+-Desired tone (e.g., professional, persuasive)
+-Word count
+2. Click the "Generate Content" button to create an article.
+3. View, edit, or download the generated article.
 
-3. Run the cells to generate the content.  
-
-Provide an example output to give users clarity.  
 
 ### **Project Architecture**  
 - **Data Input**: Accepts description, keywords, tone, and word count.  
@@ -59,10 +54,15 @@ Provide an example output to give users clarity.
 
 ### **Technologies Used**  
 - **Programming Language**: Python  
-- **Libraries**:  
-   - NLP: `transformers`, `nltk`  
-   - Data: `pandas`, `numpy`  
-   - Jupyter Notebook for prototyping  
+- **Frontend**: React.js for user interface.
+- **Backend**: Python with Jupyter Notebook (Optional: Flask/FastAPI for API integration).
+- **NLP Framework**: HuggingFace Transformers for model building and inference.
+- **Other Tools**: HTML, CSS for styling, and Bootstrap for responsive design.
+
+### **Contributing **
+Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcome!
+
+
 
 
 
