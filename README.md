@@ -42,6 +42,7 @@ Provide step-by-step instructions:
 jupyter notebook
 ```
 2.Open the notebook file (content_generator.ipynb) in your browser.
+
 3.Execute the cells step-by-step to generate content.
 
 ### **Usage**  
