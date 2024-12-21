@@ -36,6 +36,7 @@ Provide step-by-step instructions:
    pip install -r requirements.txt  
    ```
 5. **Running the Application**:
+
 1.Launch the Jupyter Notebook:
 ```bash
 jupyter notebook
