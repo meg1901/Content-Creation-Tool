@@ -34,7 +34,13 @@ Provide step-by-step instructions:
 4. **Install dependencies**:  
    ```bash  
    pip install -r requirements.txt  
-   ```  
+   ```
+5. **Running the Application**:
+1.Launch the Jupyter Notebook:
+```bash
+jupyter notebook
+2.Open the notebook file (content_generator.ipynb) in your browser.
+3.Execute the cells step-by-step to generate content.
 
 ### **Usage**  
 1. Open the frontend application and fill in the input fields with:
